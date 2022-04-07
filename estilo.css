@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+}
+
+header {
+    background: linear-gradient(#64a9e69c, #9198e5);
+}
+
+.livro {
+
+   
+    padding: 5px;
+    width: 200px;
+    float: left;
+
+}
+.texto {
+
+    padding: 10pt;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 150%;
+      
+    display: table;
+
+}
+
+.lista li,
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #e66465;
+}
+
+input[type=text], [type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
